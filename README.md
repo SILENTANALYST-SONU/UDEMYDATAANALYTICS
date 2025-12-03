@@ -1,9 +1,9 @@
-📊 Data Analytics Learning Journey — Udemy Course
+#📊 Data Analytics Learning Journey — Udemy Course
 
 Welcome to my repository!
 This repo documents everything I learned during my Udemy Data Analytics Course, including hands-on practice, notes, exercises, and Python/SQL operations.
-
-🚀 Course Summary
+---
+#🚀 Course Summary
 
 Throughout this course, I explored the complete data analytics workflow using Python, Pandas, NumPy, Matplotlib, Seaborn, and SQL.
 This repository contains my practice notebooks, case studies, and examples.
