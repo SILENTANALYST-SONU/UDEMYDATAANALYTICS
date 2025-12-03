@@ -129,8 +129,8 @@ FROM employees
 GROUP BY department;
 
 ---
+
 >>📁 Repository Structure
----
 📦 data-analytics-udemy-learning
  ┣ 📂 datasets
  ┣ 📂 notebooks
