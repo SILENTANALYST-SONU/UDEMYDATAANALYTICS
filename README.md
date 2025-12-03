@@ -20,8 +20,8 @@ Loops (for, while)
 Functions
 
 List, Tuple, Dictionary operations
----
 
+---
 >>📘 2. Pandas Fundamentals
 ✓ Data Structures
 
