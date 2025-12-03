@@ -9,6 +9,7 @@ Throughout this course, I explored the complete data analytics workflow using Py
 This repository contains my practice notebooks, case studies, and examples.
 ---
 >>🧠 Topics I Learned
+
 🔹 1. Python Basics for Data Analysis
 
 Variables, data types
@@ -41,6 +42,7 @@ pd.read_json()
 .describe()
 
 .value_counts()
+
 ---
 >>✂️ 3. Data Slicing & Filtering
 Row slicing
@@ -55,6 +57,7 @@ df[['col1', 'col2']]
 Conditional filtering
 df[df['Age'] > 30]
 df[(df['Gender'] == 'Male') & (df['Salary'] > 50000)]
+
 ---
 >>🧼 4. Data Cleaning
 
@@ -72,6 +75,7 @@ df.drop_duplicates()
 Data type conversions
 
 df['date'] = pd.to_datetime(df['date'])
+
 ---
 
 >>🔧 5. Data Transformation
@@ -85,6 +89,7 @@ df.groupby('Department')['Salary'].mean()
 #Sorting
 
 df.sort_values(by='Salary', ascending=False)
+
 ---
 >>📉 6. Data Visualization
 
@@ -103,6 +108,7 @@ Heatmaps
 Example:
 
 sns.boxplot(x='Department', y='Salary', data=df)
+
 ---
 >>🗄️ 7. SQL for Data Analysis
 
@@ -121,6 +127,7 @@ Example:
 SELECT department, AVG(salary)
 FROM employees
 GROUP BY department;
+
 ---
 >>📁 Repository Structure
 📦 data-analytics-udemy-learning
@@ -138,5 +145,6 @@ To build strong foundations in Python, SQL, and data handling
 To prepare for Data Analyst roles
 
 To showcase my learning journey
+
 ---
 >>🙌 Connect With Me
